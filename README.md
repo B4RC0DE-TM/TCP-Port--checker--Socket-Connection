@@ -1,4 +1,4 @@
-# IP-Pinger/Host-Checker/PaPing/TCP Socket Connection
+TCP Socket Connection
 
 
 ====================================================================
